@@ -1,0 +1,9 @@
+title: Random-K.com
+email: random-k@protonmail.com
+description: 
+baseurl:
+url: http://random-k.com/
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
